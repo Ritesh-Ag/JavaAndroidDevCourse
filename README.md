@@ -4,7 +4,7 @@ This repository will contain all the resources and study materials which will be
 1. You will devote your 4 week for this course with full attention and dedication.
 2. We assume that you have some prior knowledge of programming in any language.
 3. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. Create a repository and add only
-   your mentor as a collaborator. The mentors GitHub IDs are: @Ritesh-Ag (Ritesh),.
+   your mentor as a collaborator. The mentors GitHub IDs are: [Ritesh-Ag](github.com/Ritesh-Ag), [Namrata-jha](github.com/namrata-jha).
 4. For any doubt related to the course, you can directly contact to your mentor or you can open an issue in this repository.
 5. Create a README.md in your repository where you can keep track of your progress over the next month. The mentors will be using
    the README.md as a progress tracker.
@@ -22,7 +22,7 @@ Some things to note:
 
 1. Basic knowledge of programming in any language.
 2. Git : You'll be using GitHub for all your code/assignment submission, so learn the basics of git: pull, push, add, commit.
-   You can refer to this https://www.atlassian.com/git/tutorials
+   You can refer to [this](https://www.atlassian.com/git/tutorials)
   
 # Resources
 
@@ -31,4 +31,4 @@ these tutorials.
 
 ### Week 1
 
-1.
+1. 
