@@ -5,18 +5,18 @@ This repository will contain all the resources and study materials which will be
 2. We assume that you have some prior knowledge of programming in any language.
 3. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. Create a repository and add only
    your mentor as a collaborator. The mentors GitHub IDs are: [Ritesh-Ag](https://github.com/Ritesh-Ag), [Namrata-jha](https://github.com/namrata-jha).
-4. For any doubt related to the course, you can directly contact to your mentor or you can open an issue in this repository.
+4. For any doubt related to the course, you can contact your mentor or you can open an issue in this repository.
 5. Create a README.md in your repository where you can keep track of your progress over the next month. The mentors will be using
    the README.md as a progress tracker.
 
 
 Some things to note:
 
-1. For any doubts, you can contact your mentor on whatsapp in the group and do not hestitate in asking questions.
-2. I encourage searching on google your doubts before asking to me as it will inculcate a strong habit of solving your problems on
-   your own using google.
-3. Each week you will be provided with a task to complete which is to be completed in the same week. You will be submitting the
-   code in github or you can send your code to your mentor.
+1. For any doubts, you can contact your mentor on the Whatsapp group and do not hestitate to ask questions.
+2. We encourage Googling your doubts before asking as it will inculcate a strong habit of solving your problems on
+   your own.
+3. Each week you will be provided with a task to be completed within the same week. You will be submitting the
+   code in GitHub or you can send your code to your mentor.
    
 # Prerequisites
 
@@ -31,4 +31,4 @@ these tutorials.
 
 ### Week 1
 
-1. 
+ 
