@@ -29,6 +29,8 @@ Some things to note:
 This resource list will get updated before every week with different blogs or videos for the courses. You are advised to go through 
 these tutorials.
 
+Happy coding! :)
+
 ### Week 1
 
  
